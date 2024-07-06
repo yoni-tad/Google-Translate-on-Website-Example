@@ -12,7 +12,7 @@
     <script type="text/javascript">
       function googleTranslateElementInit() {
         new google.translate.TranslateElement(
-          { pageLanguage: "en" },
+          { pageLanguage: "zh-CN" },
           "google_translate_element"
         );
       }
@@ -57,7 +57,7 @@
           <a class="dropdown-item" href="#" onclick="translateLanguage('am')"
             >Spanish</a
           >
-          <a class="dropdown-item" href="#" onclick="translateLanguage('om')"
+          <a class="dropdown-item" href="#" onclick="translateLanguage('es')"
             >French</a
           >
           <a class="dropdown-item" href="#" onclick="translateLanguage('ti')"
